@@ -1,0 +1,253 @@
+{
+  "timestamp": "2026-02-10T13:25:52.065782",
+  "nodes": [
+    {
+      "id": "1",
+      "parentId": null,
+      "label": "Osteopathy",
+      "url": "",
+      "description": "",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1WzqCasTcUXdIlrkoWlzZecbP79dUpx1p&sz=w100"
+    },
+    {
+      "id": "2",
+      "parentId": "1",
+      "label": "Definition & Origin",
+      "url": "Osteopathy",
+      "description": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "3",
+      "parentId": "1",
+      "label": "Core Principles",
+      "url": "Osteopathy",
+      "description": "",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1klJ1u_r55Sql-dmh_RhSPW8KE_xlmKd6&sz=w100"
+    },
+    {
+      "id": "4",
+      "parentId": "1",
+      "label": "Clinical Scope",
+      "url": "",
+      "description": "",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1QJ0Xt9TMEsmK7Av6b9_eJ6c5w5O-7ZNS&sz=w100"
+    },
+    {
+      "id": "5",
+      "parentId": "1",
+      "label": "Treatment Process",
+      "url": "Osteopathy",
+      "description": "",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1Ru2mxlvp8i6yo8dJ-SPTjMXya-d4z3kY&sz=w100"
+    },
+    {
+      "id": "6",
+      "parentId": "1",
+      "label": "Education & Practice",
+      "url": "",
+      "description": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "7",
+      "parentId": "1",
+      "label": "Location in India",
+      "url": "",
+      "description": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "8",
+      "parentId": "2",
+      "label": "Holistic Manual Therapy",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "9",
+      "parentId": "2",
+      "label": "Established 1800s by Dr. A.T. Still",
+      "url": "https://www.indiaosteopathy.com/faq#h.rx1cc3oc41lu",
+      "description": "Osteopathy is an alternative treatment mechanism, researched and established by Dr A.T. Still, in the early 1800\u2019s. It is based on the fact that the body has in-built abilities to recover itself and retain good health.",
+      "imageUrl": ""
+    },
+    {
+      "id": "10",
+      "parentId": "2",
+      "label": "Safe and drug-free approach",
+      "url": "https://www.indiaosteopathy.com/faq#h.c41aq4bxwcnb",
+      "description": "An Osteopath uses a combination of the areas of musculoskeletal, visceral, and cranial osteopathy along with the biomedical sciences to treat a patient in a totally scientific manner. While an Orthopedic treats bone related problems, an allopathy doctor treats Osteoporosis which is a condition related to bones, Osteopathy is totally different and a complete health science in itself.",
+      "imageUrl": ""
+    },
+    {
+      "id": "11",
+      "parentId": "2",
+      "label": "focus on natural healing mechanisms",
+      "url": "https://www.indiaosteopathy.com/faq#h.c41aq4bxwcnb",
+      "description": "During an osteopathic session, practitioners assess posture, movement, and functional patterns before applying precise manual techniques. This approach helps improve mobility, reduce pain, and optimize overall body function.",
+      "imageUrl": ""
+    },
+    {
+      "id": "12",
+      "parentId": "3",
+      "label": "Body's in-built recovery ability",
+      "url": "https://www.indiaosteopathy.com/faq#h.75giiekehr9l",
+      "description": "Osteopathy Offers a safe, drug-free approach to managing pain, mobility issues, and functional health concerns. Our osteopathic sessions focus on restoring balance through hands-on manual therapy, supporting the body\u2019s natural healing mechanisms",
+      "imageUrl": ""
+    },
+    {
+      "id": "13",
+      "parentId": "3",
+      "label": "Restoring balance and function",
+      "url": "https://www.indiaosteopathy.com/faq#h.75giiekehr9l",
+      "description": "Osteopathic sessions focus on restoring balance through hands-on manual therapy, supporting the body\u2019s natural healing mechanisms",
+      "imageUrl": ""
+    },
+    {
+      "id": "14",
+      "parentId": "3",
+      "label": "Interconnectedness of body parts",
+      "url": "https://www.indiaosteopathy.com/faq#h.75giiekehr9l",
+      "description": "Osteopathy is a holistic manual therapy developed in the early 1800s that focuses on restoring the body\u2019s natural balance. It uses gentle hands-on techniques rather than medication or surgery to support the body\u2019s self-healing mechanisms.",
+      "imageUrl": ""
+    },
+    {
+      "id": "15",
+      "parentId": "4",
+      "label": "Areas of Focus",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "All kinds of health problems have treatments available in Osteopathy. From various pain (back pain, shoulder pain, etc.) gut problems (digestion), sleep disorders, neuro, gastro, etc. etc.. , from pediatric to Geriatric patients - for all kinds of health issues, Osteopathy has a helping and healing hand to offer.",
+      "imageUrl": ""
+    },
+    {
+      "id": "16",
+      "parentId": "4",
+      "label": "Conditions Treated",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "Osteopathy can support individuals experiencing musculoskeletal pain, postural imbalance, digestive discomfort, sleep disturbances, and functional health concerns across all age groups.",
+      "imageUrl": ""
+    },
+    {
+      "id": "17",
+      "parentId": "4",
+      "label": "Patient Groups",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "Osteopathy can support all age groups may it be young new borns or senior geriatric patients. Every body and everybody can benefit from Osteopathy",
+      "imageUrl": ""
+    },
+    {
+      "id": "18",
+      "parentId": "5",
+      "label": "Patient History Assessment",
+      "url": "https://www.indiaosteopathy.com/faq#h.em7p4p9fjhtb",
+      "description": "Treatment differs based on health issues, as you can guess. An O steopath will first understand the patient history (lifestyle, symptoms, disease history, etc.) and define the approach for treatment through Osteopathy treatment \"sessions\" (as its known), wherein each session may be an hour long.",
+      "imageUrl": ""
+    },
+    {
+      "id": "19",
+      "parentId": "5",
+      "label": "Hands-on manipulation",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "Osteopath will assess the patient needs and perform \"listening\", then \"manipulation\" with hands-on approach. No medicines and chemical side effects yet the treatment helps body heal - addressing musculoskeletal and neurological issues that can affect movement, pain levels, and quality of life, etc .",
+      "imageUrl": ""
+    },
+    {
+      "id": "20",
+      "parentId": "5",
+      "label": "Listening and movement assessment",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "Osteopath will assess the patient needs and perform \"listening\", then \"manipulation\" with hands-on approach. The patient typically just has to lie down, relax, breath as per instructions and cooperate with the movement instructions that the Osteopath suggests during the treatment. ",
+      "imageUrl": ""
+    },
+    {
+      "id": "21",
+      "parentId": "5",
+      "label": "Hour-long sessions",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "Treatment differs based on health issues, as you can guess. An Osteopath will first understand the patient history (lifestyle, symptoms, disease history, etc.) and define the approach for treatment through Osteopathy treatment \"sessions\" (as its known), wherein each session may be an hour long. ",
+      "imageUrl": ""
+    },
+    {
+      "id": "22",
+      "parentId": "5",
+      "label": "Gap Between two sessions",
+      "url": "https://www.indiaosteopathy.com/faq#h.u0j66y6ksc3u",
+      "description": "If a patient needs more than one session, that is, if an Osteopath advises so, then a gap between two sessions may also be necessary in most cases, (unlike, for example, a daily dosage of prescribed medicine).",
+      "imageUrl": ""
+    },
+    {
+      "id": "23",
+      "parentId": "6",
+      "label": "Regulated health practice",
+      "url": "https://medicaldialogues.in/news/education/odisha-govt-approves-bsc-and-msc-osteopathy-courses-110430",
+      "description": "It is a complete health science that is well established and, as a practice its well regulated by professional bodies across various health disciplines and specializations.",
+      "imageUrl": ""
+    },
+    {
+      "id": "24",
+      "parentId": "6",
+      "label": "University Degree and Post Graduation Programs",
+      "url": "https://srisriuniversity.edu.in/sri-sri-college-of-osteopathy/",
+      "description": "Globally many reputed universities offer under graduate and graduate programs in Osteopathy and thousands of hours of clinical practice. In India, Sri Sri University (Cuttack, Odisha) pioneered Osteopathy education offering graduate and post graduate programs in Osteopathy taught by globally renowned faculty.",
+      "imageUrl": ""
+    },
+    {
+      "id": "25",
+      "parentId": "6",
+      "label": "Gobally recognized carriculum ",
+      "url": "https://srisriuniversity.edu.in/sri-sri-college-of-osteopathy/#curriculum",
+      "description": "Under graduate and post graduate programs have well structured full course carriculum, imparting education in depth of all aspects of Osteopathy and not a short \"Osteopathy Workshop\" offered at many places.",
+      "imageUrl": ""
+    },
+    {
+      "id": "26",
+      "parentId": "6",
+      "label": "Training by European and American Experts",
+      "url": "https://srisriuniversity.edu.in/sri-sri-college-of-osteopathy-teachers/#",
+      "description": "Experts from all over the world (France, Germany, Spain, Argentina, UK, Netherlands, etc.) impart education and training to the students at Sri Sri University through a well structured full course carriculum, a whole lot more than a few weeks of \"Osteopathy Workshop\" offered at many places.",
+      "imageUrl": ""
+    },
+    {
+      "id": "27",
+      "parentId": "7",
+      "label": "Mumbai",
+      "url": "https://www.indiaosteopathy.com/appointment",
+      "description": "Kandivali, Powai and other locations",
+      "imageUrl": ""
+    },
+    {
+      "id": "28",
+      "parentId": "7",
+      "label": "Pune",
+      "url": "https://www.indiaosteopathy.com/appointment",
+      "description": "Pimplesaudagar, Markal",
+      "imageUrl": ""
+    },
+    {
+      "id": "29",
+      "parentId": "7",
+      "label": "Delhi",
+      "url": "https://www.indiaosteopathy.com/appointment",
+      "description": "Various Locations",
+      "imageUrl": ""
+    },
+    {
+      "id": "30",
+      "parentId": "7",
+      "label": "Bangalore",
+      "url": "https://www.indiaosteopathy.com/appointment",
+      "description": "Kanakpura and various other locations",
+      "imageUrl": ""
+    },
+    {
+      "id": "31",
+      "parentId": "7",
+      "label": "Other Cities.. ",
+      "url": "https://www.indiaosteopathy.com/appointment",
+      "description": "Multiple cities in India (Hyderabad, Kolkata, etc.)",
+      "imageUrl": ""
+    }
+  ]
+}

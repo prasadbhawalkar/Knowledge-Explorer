@@ -1,0 +1,6 @@
+
+{
+  "name": "Knowledge Explorer",
+  "description": "A graphical visualization tool for concepts, integrated with spreadsheets, Python, and webApps Script. Featuring hierarchical layouts, collapsible nodes, and URL support.",
+  "requestFramePermissions": []
+}

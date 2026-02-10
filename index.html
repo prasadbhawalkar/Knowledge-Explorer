@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Knowlege Explorer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        body, html { 
+            margin: 0; 
+            padding: 0; 
+            height: 100%; 
+            width: 100%;
+            overflow: hidden; 
+            background-color: #f8fafc; 
+            font-family: 'Inter', sans-serif;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        /* Node Styles */
+        .node-rect { fill: #ffffff; cursor: pointer; transition: stroke 0.2s, filter 0.2s; }
+        .node-rect:active { filter: brightness(0.95); }
+        .link { fill: none; stroke: #cbd5e1; stroke-width: 1.5px; transition: stroke-dashoffset 0.5s ease-in-out; }
+        
+        .url-border { stroke-width: 2.5px !important; stroke: #2563eb !important; }
+        .standard-border { stroke: #e2e8f0; stroke-width: 1px; }
+        
+        .node-shadow { filter: drop-shadow(0 2px 4px rgb(0 0 0 / 0.05)); }
+        
+        /* Interactive Elements */
+        .toggle-circle { fill: #64748b; stroke: #fff; stroke-width: 2px; cursor: pointer; }
+        .toggle-circle:hover { fill: #3b82f6; }
+
+        /* Custom Scrollbar for Modal */
+        .custom-scrollbar::-webkit-scrollbar { width: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
+
+        /* Mobile Bottom Sheet Animation */
+        @media (max-width: 640px) {
+            .mobile-bottom-sheet {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                transform: translateY(100%);
+                animation: slideUp 0.3s forwards cubic-bezier(0, 0, 0.2, 1);
+                border-bottom-left-radius: 0;
+                border-bottom-right-radius: 0;
+                max-width: 100% !important;
+            }
+        }
+
+        @keyframes slideUp {
+            from { transform: translateY(100%); }
+            to { transform: translateY(0); }
+        }
+    </style>
+    <script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@19.0.0",
+    "react-dom": "https://esm.sh/react-dom@19.0.0",
+    "d3": "https://esm.sh/d3@7.9.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "vite": "https://esm.sh/vite@^7.3.1"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <div id="root"></div>
+    <script type="module" src="./index.tsx"></script>
+<script type="module" src="/index.tsx"></script>
+</body>
+</html>
